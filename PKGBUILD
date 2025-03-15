@@ -1,5 +1,5 @@
 pkgname=claude-desktop
-pkgver=0.8.0
+pkgver=0.8.1
 pkgrel=1
 pkgdesc="Claude Desktop for Linux – an AI assistant from Anthropic"
 arch=('x86_64')
