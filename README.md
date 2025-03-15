@@ -14,7 +14,7 @@ This project was inspired by [claude-desktop-linux-flake](https://github.com/k3d
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/claude-desktop-arch
+git clone https://github.com/samdc73/claude-desktop-arch
 cd claude-desktop-arch
 
 # Build and install
